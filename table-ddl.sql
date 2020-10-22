@@ -15,3 +15,5 @@ create table ride (
     member_casual text
 );
 
+-- Then get CSVs from https://divvy-tripdata.s3.amazonaws.com/index.html
+-- and `copy` ahoy!
